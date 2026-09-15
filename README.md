@@ -1,5 +1,5 @@
 # Early Fusion Phishing Email Detection
-**Abundo · Custodio · Pastoral — Mapua University 2026**
+**Abundo · Custodio · Pastoral  Mapua University 2026**
 
 This project detects phishing and spam emails by combining email header features with body text features and comparing the results against using either source alone.
 
@@ -50,7 +50,7 @@ Raw .eml file
 
 Download the datasets and place them in the correct folder structure.
 
-> 📁 **[Download Datasets from Google Drive](#)** <- Link to be added
+> 📁 https://drive.google.com/drive/folders/1mizfEkAFG-7Gg6f-V_qG0L-VWk4c9DJ5?usp=sharing 
 
 ```
 data/raw/
